@@ -1,3 +1,11 @@
+readme not done yet
+
+
+
+
+
+
+
 # Sentiment-analysis-tool
 ## A lightweight tool that analyzes input entries based on a bulit-in scoring system, and attempts to determine their sentiments. It does not use external stemming libraries, instead tries to determine the sentiment by finding keywords, negations and emphasizing words inside the input sentences.
 
@@ -6,7 +14,6 @@ All files and the entire logic of the program was written by me, while some of t
 ---
 
 ## Installation
-  to be finished
 
 ## Functions:
 - built-in CLI (Command line interface)
