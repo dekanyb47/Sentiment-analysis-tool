@@ -19,10 +19,10 @@ All files and the entire logic of the program was written by me, while some of t
 - built-in CLI (Command line interface)
 - Analysis of words and their variations through a JSON-based database
 - Handling form modifiers:
-  `'nice' - positive (Score: 0.4)
+  ```'nice' - positive (Score: 0.4)
 'nice!' - positive (Score: 0.44)
 'nice?' - neutral (Score: 0.08)
-'nice!!' - positive (Score: 0.462)`
+'nice!!' - positive (Score: 0.462)```
 
   `'not good at all' - very negative (Score: -0.603)
 'not good AT ALL' - very negative (Score: -0.724)`
