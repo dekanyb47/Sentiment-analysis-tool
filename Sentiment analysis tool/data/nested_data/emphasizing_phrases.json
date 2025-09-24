@@ -1,5 +1,5 @@
 {
-  "_comment": "this file has a nested dictionary structure, but at runtime this will be converted to a flat dictionary for O(1) lookup. scores seen in this file will be used as scores",
+  "_comment": "this file has a nested dictionary structure, but at runtime this will be converted to a flat dictionary for O(1) lookup. scores seen in this file will be used as multipliers",
   "somewhat": {
     "score": 0.7,
     "variations": []
@@ -65,3 +65,4 @@
     "variations": ["shockingly"]
   }
 }
+
