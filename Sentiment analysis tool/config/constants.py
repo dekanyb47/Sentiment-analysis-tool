@@ -1,0 +1,27 @@
+from os.path import dirname, abspath
+
+# general
+PARENT_FOLDER = dirname(dirname(abspath(__file__)))
+
+# input handling
+ENTRY_SPLITTING_STR = '\n'
+
+# sentiment boundaries
+VERY_POSITIVE_BOUNDARY = 0.6
+VERY_NEGATIVE_BOUNDARY = -0.6
+POSITIVE_BOUNDARY = 0.15
+NEGATIVE_BOUNDARY = -0.15
+
+# score calculation
+EMPHASIS_SCALING_BASE = 1/1.7
+MODULATED_NEGATION_SOFTENING_FACTOR = 2/3
+
+# form modifying values
+QUESTION_SCORE_SOFTENING_MULTIPLIER = 0.2
+PUNCTUATION_SCALING_BASE = 1/2
+EXCLAMATION_MARK_BASE_MULTIPLIER = 1.1
+UPPERCASE_MULTIPLIER = 1.2
+ELIPSIS_MULTIPLIER = 1.1
+
+# rounding
+ROUNDING_DECIMALS = 3

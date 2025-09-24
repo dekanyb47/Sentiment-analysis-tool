@@ -1,0 +1,147 @@
+{
+  "_comment": "this file has a nested dictionary structure, but at runtime this will be converted to a flat dictionary for O(1) lookup.",
+  "acceptable": {
+    "score": 0.15,
+    "variations": []
+  },
+  "decent": {
+    "score": 0.2,
+    "variations": ["decently", "decency"]
+  },
+  "okay": {
+    "score": 0.2,
+    "variations": ["ok"]
+  },
+  "good": {
+    "score": 0.3,
+    "variations": ["well", "goodness"]
+  },
+  "nice": {
+    "score": 0.4,
+    "variations": ["nicely", "niceness", "nicer"]
+  },
+  "happy": {
+    "score": 0.4,
+    "variations": ["happiness", "happily", "happier"]
+  },
+  "cute": {
+    "score": 0.4,
+    "variations": ["cutely", "cuteness"]
+  },
+  "like": {
+    "score": 0.4,
+    "variations": ["liked", "liking", "likable"]
+  },
+  "satisfying": {
+    "score": 0.4,
+    "variations": ["satisfaction", "satisfied", "satisfy", "satisfies"]
+  },
+  "useful": {
+    "score": 0.4,
+    "variations": ["usefulness", "usefully"]
+  },
+  "pleasing": {
+    "score": 0.4,
+    "variations": ["pleasure", "pleasurable", "pleased", "pleasingly", "pleasant", "pleasantly", "pleases"]
+  },
+  "joyful": {
+    "score": 0.5,
+    "variations": ["joyfully", "joyfulness", "joyous", "joyously"]
+  },
+  "positive": {
+    "score": 0.5,
+    "variations": ["positivity", "positively", "positiveness"]
+  },
+  "enjoy": {
+    "score": 0.5,
+    "variations": ["enjoyment", "enjoyed", "enjoying", "enjoys"]
+  },
+  "exciting": {
+    "score": 0.5,
+    "variations": ["excited", "excitement", "excitingly", "excitedly"]
+  },
+  "helpful": {
+    "score": 0.5,
+    "variations": ["helpfulness", "helpfully"]
+  },
+  "excellent": {
+    "score": 0.6,
+    "variations": ["excellently"]
+  },
+  "great": {
+    "score": 0.6,
+    "variations": ["greater", "greatest", "greatly"]
+  },
+  "impressive": {
+    "score": 0.65,
+    "variations": ["impressively", "impressed", "impressiveness"]
+  },
+  "fantastic": {
+    "score": 0.7,
+    "variations": ["fantastically"]
+  },
+  "awesome": {
+    "score": 0.7,
+    "variations": ["awesomeness"]
+  },
+  "amazing": {
+    "score": 0.7,
+    "variations": ["amazingly", "amazement", "amazed"]
+  },
+  "delighting": {
+    "score": 0.7,
+    "variations": ["delighted", "delight", "delightful", "delightfully"]
+  },
+  "grateful": {
+    "score": 0.7,
+    "variations": ["gratefully", "gratefulness", "gratitude"]
+  },
+  "wonderful": {
+    "score": 0.8,
+    "variations": ["wonderfully", "wonderfulness"]
+  },
+  "unbelievable": {
+    "score": 0.8,
+    "variations": ["unbelievably"]
+  },
+  "love": {
+    "score": 0.8,
+    "variations": ["loved", "loving", "lovely"]
+  },
+  "thrilling": {
+    "score": 0.8,
+    "variations": ["thrill", "thrilled", "thrills"]
+  },
+  "superb": {
+    "score": 0.8,
+    "variations": ["superbly"]
+  },
+  "fabulous": {
+    "score": 0.8,
+    "variations": ["fabulously"]
+  },
+  "adore": {
+    "score": 0.9,
+    "variations": ["adorable", "adoration", "adored", "adores", "adoring", "adoringly"]
+  },
+  "super": {
+    "score": 0.9,
+    "variations": ["superbly"]
+  },
+  "best": {
+    "score": 0.9,
+    "variations": []
+  },
+  "mind-blowing": {
+    "score": 0.9,
+    "variations": ["mindblowingly"]
+  },
+  "perfect": {
+    "score": 1.0,
+    "variations": ["perfection", "perfectly", "perfected"]
+  },
+  "flawless": {
+    "score": 1.0,
+    "variations": ["flawlessly", "flawlessness"]
+  }
+}

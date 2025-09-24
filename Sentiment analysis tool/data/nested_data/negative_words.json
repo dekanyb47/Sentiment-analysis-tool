@@ -1,0 +1,87 @@
+{
+  "_comment": "this file has a nested dictionary structure, but at runtime this will be converted to a flat dictionary for O(1) lookup.",
+  "worst": {
+    "score": -1.0,
+    "variations": []
+  },
+  "terrible": {
+    "score": -0.9,
+    "variations": ["terribly"]
+  },
+  "horrible": {
+    "score": -0.9,
+    "variations": ["horribly"]
+  },
+  "hate": {
+    "score": -0.9,
+    "variations": ["hated", "hating", "hatred"]
+  },
+  "awful": {
+    "score": -0.8,
+    "variations": ["awfully"]
+  },
+  "disgusting": {
+    "score": -0.8,
+    "variations": ["disgust", "disgusted", "disgusts", "disgustingly"]
+  },
+  "disappointing": {
+    "score": -0.8,
+    "variations": ["disappoint", "disappointed", "disappointment", "disappoints"]
+  },
+  "frustrating": {
+    "score": -0.7,
+    "variations": ["frustration", "frustrated", "frustrates"]
+  },
+  "irritating": {
+    "score": -0.7,
+    "variations": ["irritation", "irritated", "irritates"]
+  },
+  "angry": {
+    "score": -0.6,
+    "variations": ["anger", "angrily"]
+  },
+  "unhappy": {
+    "score": -0.5,
+    "variations": ["unhappiness"]
+  },
+  "sad": {
+    "score": -0.5,
+    "variations": ["sadness", "sadly"]
+  },
+  "dislike": {
+    "score": -0.5,
+    "variations": ["disliked", "disliking"]
+  },
+  "upset": {
+    "score": -0.5,
+    "variations": ["upsets", "upsetting"]
+  },
+  "negative": {
+    "score": -0.5,
+    "variations": ["negativity", "negatively"]
+  },
+  "annoying": {
+    "score": -0.5,
+    "variations": ["annoyance", "annoyed", "annoys"]
+  },
+  "bad": {
+    "score": -0.4,
+    "variations": ["badly", "badness"]
+  },
+  "flawed": {
+    "score": -0.4,
+    "variations": ["flaw", "flaws", "flawing"]
+  },
+  "imperfect": {
+    "score": -0.3,
+    "variations": ["imperfectly", "imperfection", "imperfections"]
+  },
+  "underwhelming": {
+    "score": -0.3,
+    "variations": ["underwhelmed", "underwhelms"]
+  },
+  "meh": {
+    "score": -0.2,
+    "variations": []
+  }
+}
